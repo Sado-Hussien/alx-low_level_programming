@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bashg
 gcc $CFILE -o cisfiun
