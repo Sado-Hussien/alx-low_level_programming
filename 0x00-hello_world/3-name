@@ -1,2 +1,2 @@
-#!/bin/bashg
-gcc $CFILE -o cisfiun
+#!/bin/bash
+gcc $CFILE -o cisfun
