@@ -1,18 +1,20 @@
 #include "main.h"
 
 /**
-* print_alphabet - prints the alphabet in lower case followed by a new line
-*
-* Return: void
-*/
-void print_alphabet(void)
+ * main -  prints _putchar, followed by a new line
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
-	char i = 'a';
-
-	while (i <= 'z')
-	{
-		_putchar(i);
-		i++;
-	}
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 	_putchar('\n');
+
+	return (0);
 }
